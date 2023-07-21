@@ -1,5 +1,5 @@
-- 👋 This is the official github page of Perception & Intelligence Lab IIT Kanpu
-- 🌱 We are currently working in the field of Computer Vision, Machine Learning, Robotics, Signal Processing & Communications. Do visit [PIL Lab](https://home.iitk.ac.in/~sandhan/research.html) for more detail.
+- This is the official github page of Perception & Intelligence Lab IIT Kanpu
+- We are currently working in the field of Computer Vision, Machine Learning, Robotics, Signal Processing & Communications. Do visit [PIL Lab](https://home.iitk.ac.in/~sandhan/research.html) for more detail.
 - 
 - 
 
